@@ -21,7 +21,7 @@ namespace YesilliOkul.Entity
             Ogrencileri = new List<Ogrenci>();
             Dersleri = new HashSet<Ders>();
             Egitmenleri = new HashSet<Egitmen>();
-
+            //dee
         }
     }
 }
