@@ -1,0 +1,10 @@
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.Entity\bin\Debug\YesilliOkul.Entity.dll
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.Entity\bin\Debug\YesilliOkul.Entity.pdb
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.Entity\obj\Debug\YesilliOkul.Entity.csprojResolveAssemblyReference.cache
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.Entity\obj\Debug\YesilliOkul.Entity.dll
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.Entity\obj\Debug\YesilliOkul.Entity.pdb
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.Entity\bin\Debug\YesilliOkul.Entity.dll.config
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.Entity\bin\Debug\EntityFramework.dll
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.Entity\bin\Debug\EntityFramework.xml
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.Entity\bin\Debug\EntityFramework.SqlServer.xml

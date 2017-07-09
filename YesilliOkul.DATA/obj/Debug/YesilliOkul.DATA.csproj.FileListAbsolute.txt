@@ -1,0 +1,15 @@
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\bin\Debug\YesilliOkul.DATA.dll.config
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\bin\Debug\YesilliOkul.DATA.dll
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\bin\Debug\YesilliOkul.DATA.pdb
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\bin\Debug\EntityFramework.dll
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\bin\Debug\YesilliOkul.Entity.dll
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\bin\Debug\YesilliOkul.Entity.pdb
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\bin\Debug\EntityFramework.xml
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\obj\Debug\YesilliOkul.DATA.csprojResolveAssemblyReference.cache
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\obj\Debug\YesilliOkul.DATA.dll
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\obj\Debug\YesilliOkul.DATA.pdb
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\obj\Debug\YesilliOkul.DATA.Migrations.kurulum.resources
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\obj\Debug\YesilliOkul.DATA.csproj.GenerateResource.Cache
+C:\Users\alkin\Desktop\YesilliOkul\YesilliOkul.DATA\bin\Debug\YesilliOkul.Entity.dll.config
